@@ -1,4 +1,4 @@
-var
+let
     nombre = "Raydberg",
     apellido = "Chuquival",
     edad = 19,

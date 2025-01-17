@@ -1,5 +1,5 @@
-var nombre ;
-var apellido;
-var edad;
-var fechaNacimiento;
-var direccion;
+let nombre;
+let apellido;
+let edad;
+let fechaNacimiento;
+let direccion;

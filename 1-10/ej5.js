@@ -17,5 +17,3 @@ console.log(apellido)
 console.log(edad)
 console.log(fechaNacimiento)
 console.log(direccion)
-
-// Mostrar en consola el valor de cada una de las variables utilizando console.log()
