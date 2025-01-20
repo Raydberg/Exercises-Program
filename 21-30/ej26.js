@@ -10,3 +10,4 @@ console.log("cantidadDeAlumnos", typeof cantidadDeAlumnos)
 console.log("isActivo", typeof isActivo)
 console.log("cantidadDeDocentes", typeof cantidadDeDocentes)
 console.log("horario", typeof horario)
+
